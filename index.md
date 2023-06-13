@@ -11,6 +11,10 @@ The challenge of replicating research results has posed a significant impediment
 ## Dataset
 
 
+
+
+
+
 ## Paper
 
 
@@ -24,7 +28,7 @@ Our dataset is distributed under the [CC BY-NC-SA (Attribution-NonCommercial-Sha
 ```bibtex
 @inproceedings{cui2023probio,
     title={ProBio: A Protocol-guided Multimodal Dataset for Molecular Biology Lab},
-    author={Anonymous Authors},
+    author={Jieming Cui, Ziren Gong, Baoxiong Jia, Siyuan Huang, Zilong Zheng, Jianzhu Ma, Yixin Zhu},
     booktitle={NeurIPS 2023 Datasets and Benchmarks Track (Under Review)},
     year={2023}
 }
