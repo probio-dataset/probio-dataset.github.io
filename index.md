@@ -20,7 +20,7 @@ The challenge of replicating research results has posed a significant impediment
 
 ## Download
 
-Our dataset is distributed under the [CC BY-NC-SA (Attribution-NonCommercial-ShareAlike)](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. You can download our dataset from [Link here](https://docs.google.com/forms/d/e/1FAIpQLSe6NpXCq3rsgArf91o81jMLhA0MWjKDibVKFWwiBXPddoMSNw/viewform).
+Our dataset is distributed under the [CC BY-NC-SA (Attribution-NonCommercial-ShareAlike)](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. You can download our dataset from [Link here](https://docs.google.com/forms/d/e/1FAIpQLSe6NpXCq3rsgArf91o81jMLhA0MWjKDibVKFWwiBXPddoMSNw/viewform/).
 
 
 ## Citation
