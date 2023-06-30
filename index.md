@@ -37,7 +37,7 @@ The challenge of replicating research results has posed a significant impediment
 
 ## Video
 
-<iframe width="940" height="580" src="https://www.youtube.com/embed/aPeiaVmijec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="920" height="580" src="https://www.youtube.com/embed/aPeiaVmijec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ## ProBio Dataset
