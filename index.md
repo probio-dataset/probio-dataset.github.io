@@ -1,7 +1,36 @@
 ---
 layout: page
 title: ProBio
-subtitle: A Protocol-guided Multimodal Dataset for Molecular Biology Lab
+subtitle: **A Protocol-guided Multimodal Dataset for Molecular Biology Lab**
+
+submitted to NeurIPS 2023 Track on Datasets and Benchmarks
+
+
+# <!-- Github link -->
+#     <span class="link-block">
+#         <a href="https://github.com/YOUR REPO HERE" target="_blank"
+#             class="external-link button is-normal is-rounded is-dark">
+#                 <span class="icon">
+#                     <i class="fab fa-github"></i>
+#                 </span>
+#         <span>Code</span>
+#     </a>
+# </span>
+
+# <!-- ArXiv abstract Link -->
+# <span class="link-block">
+# <a href="https://arxiv.org/abs/<ARXIV PAPER ID>" target="_blank"
+# class="external-link button is-normal is-rounded is-dark">
+# <span class="icon">
+# <i class="ai ai-arxiv"></i>
+# </span>
+# <span>arXiv</span>
+# </a>
+# </span>
+
+
+
+
 ---
 
 ![](assets/img/probio-teaser.png)
