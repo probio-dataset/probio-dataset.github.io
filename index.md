@@ -8,12 +8,17 @@ subtitle: A Protocol-guided Multimodal Dataset for Molecular Biology Lab
 
 The challenge of replicating research results has posed a significant impediment to the field of molecular biology. The advent of modern intelligent systems has led to notable progress in various domains. Consequently, we embarked on an investigation of intelligent monitoring systems as a means of tackling the issue of the reproducibility crisis. Specifically, we first curate a comprehensive multimodal dataset, named **ProBio**, as an initial step towards this objective. This dataset comprises fine-grained hierarchical annotations intended for the purpose of studying activity understanding in Molecular Biology Lab (BioLab). Next, we devise two challenging benchmarks, transparent solution tracking and multimodal action recognition, to emphasize the unique characteristics and difficulties associated with activity understanding in BioLab settings. Finally, we provide a thorough experimental evaluation of contemporary video understanding models and highlight their limitations in this specialized domain to identify potential avenues for future research. We hope **ProBio** with associated benchmarks may garner increased focus on modern AI techniques in the realm of molecular biology.
 
+
+## Video
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/aPeiaVmijec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 ## Dataset
 
-<!-- ![](assets/img/concat.gif)
+![](assets/img/concat.gif =1280*720)
 
-Visualization of the ambiguous actions in BioLab.  -->
-
+Visualization of the ambiguous actions in BioLab.
 
 ## Paper
 
