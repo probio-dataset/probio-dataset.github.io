@@ -1,7 +1,7 @@
 ---
 layout: page
-title: ProBio
-subtitle: A Protocol-guided Multimodal Dataset for Molecular Biology Lab
+title: ProBio:A Protocol-guided Multimodal Dataset for Molecular Biology Lab
+# subtitle: A Protocol-guided Multimodal Dataset for Molecular Biology Lab
 
 submitted to NeurIPS 2023 Track on Datasets and Benchmarks
 
@@ -40,16 +40,33 @@ The challenge of replicating research results has posed a significant impediment
 
 ## Video
 
-<iframe width="960" height="480" src="https://www.youtube.com/embed/aPeiaVmijec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="940" height="580" src="https://www.youtube.com/embed/aPeiaVmijec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-## Dataset
+## ProBio Dataset
+### Visualization of the ambiguous actions in BioLab.
+![](assets/img/concat.gif =940x480)
 
-![](assets/img/concat.gif)
 
-Visualization of the ambiguous actions in BioLab.
+### Part-to-whole & Ambigutiy distribution.
+![](assets/img/dataset.png =940x480)
 
-## Paper
+
+## Benchmark
+### Task description
+![](assets/img/fig2.png =940x480)
+
+We show activities recorded (right) and their corresponding protocols (left). HOI annotations are visualized in the top row. The bottom row gives an example of how knowledge in protocols guides (i) the recognition of actions (in red) given matched actions (green) and (ii) tracking the transparent solution status (blue).
+
+### Result visualization
+#### Multimodal action recognition (MultiAR)
+<!-- ![](assets/img/fig2.png =940x480) -->
+
+
+#### Transparent solution tracking (TransST)
+<!-- ![](assets/img/fig2.png =940x480) -->
+
+
 
 
 ## Download
