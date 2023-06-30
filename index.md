@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ProBio
-subtitle: **A Protocol-guided Multimodal Dataset for Molecular Biology Lab**
+subtitle: A Protocol-guided Multimodal Dataset for Molecular Biology Lab
 
 submitted to NeurIPS 2023 Track on Datasets and Benchmarks
 
@@ -40,7 +40,7 @@ The challenge of replicating research results has posed a significant impediment
 
 ## Video
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/aPeiaVmijec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="960" height="480" src="https://www.youtube.com/embed/aPeiaVmijec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ## Dataset
