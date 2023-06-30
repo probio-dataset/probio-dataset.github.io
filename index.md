@@ -15,11 +15,7 @@ class="external-link button is-normal is-rounded is-dark">
 <i class="fab fa-github"></i>
 </span>
 <span>Code</span>
-</a>
-</span>
-
-<!-- ArXiv abstract Link -->
-<span class="link-block">
+</a> 
 <a href="https://arxiv.org/abs/<ARXIV PAPER ID>" target="_blank"
 class="external-link button is-normal is-rounded is-dark">
 <span class="icon">
@@ -28,6 +24,11 @@ class="external-link button is-normal is-rounded is-dark">
 <span>arXiv</span>
 </a>
 </span>
+
+<!-- ArXiv abstract Link
+<span class="link-block">
+
+</span> -->
 
 
 ![](assets/img/probio-teaser.png)
