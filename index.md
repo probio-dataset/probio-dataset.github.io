@@ -45,7 +45,7 @@ The challenge of replicating research results has posed a significant impediment
 
 ## Dataset
 
-![](assets/img/concat.gif =1280*720)
+![](assets/img/concat.gif)
 
 Visualization of the ambiguous actions in BioLab.
 
