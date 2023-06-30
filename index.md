@@ -1,37 +1,34 @@
 ---
 layout: page
-title: ProBio:A Protocol-guided Multimodal Dataset for Molecular Biology Lab
-# subtitle: A Protocol-guided Multimodal Dataset for Molecular Biology Lab
-
-submitted to NeurIPS 2023 Track on Datasets and Benchmarks
-
-
-# <!-- Github link -->
-#     <span class="link-block">
-#         <a href="https://github.com/YOUR REPO HERE" target="_blank"
-#             class="external-link button is-normal is-rounded is-dark">
-#                 <span class="icon">
-#                     <i class="fab fa-github"></i>
-#                 </span>
-#         <span>Code</span>
-#     </a>
-# </span>
-
-# <!-- ArXiv abstract Link -->
-# <span class="link-block">
-# <a href="https://arxiv.org/abs/<ARXIV PAPER ID>" target="_blank"
-# class="external-link button is-normal is-rounded is-dark">
-# <span class="icon">
-# <i class="ai ai-arxiv"></i>
-# </span>
-# <span>arXiv</span>
-# </a>
-# </span>
-
-
-
+title: ProBio
+subtitle: A Protocol-guided Multimodal Dataset for Molecular Biology Lab
 
 ---
+
+**submitted to NeurIPS 2023 Track on Datasets and Benchmarks**
+
+<!-- Github link -->
+<span class="link-block">
+<a href="https://github.com/YOUR REPO HERE" target="_blank"
+class="external-link button is-normal is-rounded is-dark">
+<span class="icon">
+<i class="fab fa-github"></i>
+</span>
+<span>Code</span>
+</a>
+</span>
+
+<!-- ArXiv abstract Link -->
+<span class="link-block">
+<a href="https://arxiv.org/abs/<ARXIV PAPER ID>" target="_blank"
+class="external-link button is-normal is-rounded is-dark">
+<span class="icon">
+<i class="ai ai-arxiv"></i>
+</span>
+<span>arXiv</span>
+</a>
+</span>
+
 
 ![](assets/img/probio-teaser.png)
 
@@ -45,16 +42,16 @@ The challenge of replicating research results has posed a significant impediment
 
 ## ProBio Dataset
 ### Visualization of the ambiguous actions in BioLab.
-![](assets/img/concat.gif =940x480)
+![](assets/img/concat.gif)
 
 
 ### Part-to-whole & Ambigutiy distribution.
-![](assets/img/dataset.png =940x480)
+![](assets/img/dataset.png)
 
 
 ## Benchmark
 ### Task description
-![](assets/img/fig2.png =940x480)
+![](assets/img/fig2.png)
 
 We show activities recorded (right) and their corresponding protocols (left). HOI annotations are visualized in the top row. The bottom row gives an example of how knowledge in protocols guides (i) the recognition of actions (in red) given matched actions (green) and (ii) tracking the transparent solution status (blue).
 
