@@ -7,8 +7,20 @@ subtitle: A Protocol-guided Multimodal Dataset for Molecular Biology Lab
 
 **submitted to NeurIPS 2023 Track on Datasets and Benchmarks**
 
+<h4 align="center">
+  <a href="https://github.com/jiemingcui/probio", target="_blank">[Code]</a> /
+  <a href="https://arxiv.org/abs/<ARXIV PAPER ID>", target="_blank">[arXiv]</a>
+   <!-- / -->
+  <!-- <a href="https://www.youtube.com/watch?v=KGwDLg8Mn7I", target="_blank">[video]</a> -->
+  <!-- <a href="", target="_blank">[arXiv]</a> /
+  <a href="", target="_blank">[paper]</a> /
+  <a href="", target="_blank">[supplementary]</a> -->
+</h4>
+
+
+
 <!-- Github link -->
-<span class="link-block">
+<!-- <span class="link-block">
 <a href="https://github.com/jiemingcui/probio" target="_blank"
 class="external-link button is-normal is-rounded is-dark">
 <span class="icon">
@@ -24,7 +36,7 @@ class="external-link button is-normal is-rounded is-dark">
 </span>
 <span style="text-align: center;display:block;">arXiv</span>
 </a>
-</span>
+</span> -->
 
 <!-- ArXiv abstract Link
 <span class="link-block">
