@@ -13,6 +13,16 @@ subtitle: A Protocol-guided Multimodal Dataset for Molecular Biology Lab
     <a href='https://arxiv.org/abs/<ARXIV PAPER ID>', target="_blank">[ArXiv]
     </a>
 </p> -->
+<!-- Github link -->
+<span class="link-block">
+  <a href="https://github.com/jiemingcui/probio/" target="_blank"
+  class="external-link button is-normal is-rounded is-dark">
+  <span class="icon">
+    <i class="fab fa-github"></i>
+  </span>
+  <span>Code</span>
+  </a>
+</span>
 
 ![](assets/img/probio-teaser.png)
 
