@@ -4,6 +4,15 @@ title: ProBio
 subtitle: A Protocol-guided Multimodal Dataset for Molecular Biology Lab
 
 ---
+<span class="link-block" style="text-align: center;display:block;">
+  <a href="https://github.com/jiemingcui/probio/" target="_blank"
+  class="external-link button is-normal is-rounded is-dark">
+  <span class="icon">
+    <i class="fab fa-github"></i>
+  </span>
+  <span>Code</span>
+  </a>
+</span>
 
 **submitted to NeurIPS 2023 Track on Datasets and Benchmarks**
 
@@ -14,15 +23,7 @@ subtitle: A Protocol-guided Multimodal Dataset for Molecular Biology Lab
     </a>
 </p> -->
 <!-- Github link -->
-<span class="link-block">
-  <a href="https://github.com/jiemingcui/probio/" target="_blank"
-  class="external-link button is-normal is-rounded is-dark">
-  <span class="icon">
-    <i class="fab fa-github"></i>
-  </span>
-  <span>Code</span>
-  </a>
-</span>
+
 
 ![](assets/img/probio-teaser.png)
 
