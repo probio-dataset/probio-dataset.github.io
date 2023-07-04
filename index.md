@@ -8,7 +8,7 @@ subtitle: A Protocol-guided Multimodal Dataset for Molecular Biology Lab
 **submitted to NeurIPS 2023 Track on Datasets and Benchmarks**
 
 <!-- Github link -->
-<span class="link-block">
+<span class="link-block" style="text-align: center;display:block;">
 <a href="https://github.com/YOUR REPO HERE" target="_blank"
 class="external-link button is-normal is-rounded is-dark">
 <span class="icon">
@@ -16,6 +16,7 @@ class="external-link button is-normal is-rounded is-dark">
 </span>
 <span>Code</span>
 </a> 
+
 <a href="https://arxiv.org/abs/<ARXIV PAPER ID>" target="_blank"
 class="external-link button is-normal is-rounded is-dark">
 <span class="icon">
@@ -43,8 +44,7 @@ The challenge of replicating research results has posed a significant impediment
 
 ## ProBio Dataset
 ### Visualization of the ambiguous actions in BioLab.
-![](assets/img/concat.gif)
-
+![](assets/img/dataset.gif)
 
 ### Part-to-whole & Ambigutiy distribution.
 ![](assets/img/dataset.png)
@@ -58,11 +58,12 @@ We show activities recorded (right) and their corresponding protocols (left). HO
 
 ### Result visualization
 #### Multimodal action recognition (MultiAR)
-<!-- ![](assets/img/fig2.png =940x480) -->
+![](assets/img/multiar1.gif)
+![](assets/img/multiar2.gif)
 
 
 #### Transparent solution tracking (TransST)
-<!-- ![](assets/img/fig2.png =940x480) -->
+![](assets/img/transst.gif)
 
 
 
