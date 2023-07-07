@@ -34,7 +34,9 @@ The challenge of replicating research results has posed a significant impediment
 
 ## Video
 
-<iframe width="920" height="580" src="https://www.youtube.com/embed/aPeiaVmijec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="extensions extensions--video">
+<iframe width="920" height="580" src="https://www.youtube.com/embed/aPeiaVmijec?rel=0&showinfo=0" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</div>
 
 <hr>
 
