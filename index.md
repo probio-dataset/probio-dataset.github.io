@@ -14,7 +14,7 @@ subtitle: A Protocol-guided Multimodal Dataset for Molecular Biology Lab
   </a>
 </span>
 
-**submitted to NeurIPS 2023 Track on Datasets and Benchmarks**
+<center style="font-weight: bold">Submitted to NeurIPS 2023 Track on Datasets and Benchmarks</center>
 
 <!-- <p align="center">
     <a href='https://github.com/jiemingcui/probio/', target="_blank">[Code]
@@ -30,41 +30,64 @@ subtitle: A Protocol-guided Multimodal Dataset for Molecular Biology Lab
 The challenge of replicating research results has posed a significant impediment to the field of molecular biology. The advent of modern intelligent systems has led to notable progress in various domains. Consequently, we embarked on an investigation of intelligent monitoring systems as a means of tackling the issue of the reproducibility crisis. Specifically, we first curate a comprehensive multimodal dataset, named **ProBio**, as an initial step towards this objective. This dataset comprises fine-grained hierarchical annotations intended for the purpose of studying activity understanding in Molecular Biology Lab (BioLab). Next, we devise two challenging benchmarks, transparent solution tracking and multimodal action recognition, to emphasize the unique characteristics and difficulties associated with activity understanding in BioLab settings. Finally, we provide a thorough experimental evaluation of contemporary video understanding models and highlight their limitations in this specialized domain to identify potential avenues for future research. We hope **ProBio** with associated benchmarks may garner increased focus on modern AI techniques in the realm of molecular biology.
 
 
+<hr>
+
 ## Video
 
 <iframe width="920" height="580" src="https://www.youtube.com/embed/aPeiaVmijec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<hr>
 
 ## ProBio Dataset
-### Visualization of the ambiguous actions in BioLab.
-![](assets/img/dataset.gif)
+<!-- ### Visualization of the ambiguous actions in BioLab. -->
 
-### Part-to-whole & Ambigutiy distribution.
-![](assets/img/dataset.png)
+<div class="card bg-light border-light mb-3">
+    <img class="card-img lazyload" data-src="assets/img/dataset.gif" />
+    <div class="card-body">
+      <h5 class="card-title">Figure 1. Visualization of the ambiguous actions in BioLab.</h5>
+    </div>
+</div>
 
+<div class="card bg-light border-light mb-3">
+    <img class="card-img lazyload" data-src="assets/img/dataset.png" />
+    <div class="card-body">
+      <h5 class="card-title">Figure 2. Part-to-whole & Ambigutiy distribution.</h5>
+    </div>
+</div>
+
+<hr>
 
 ## Benchmark
 ### Task description
-![](assets/img/fig2.png)
+<div class="card bg-light border-light mb-3">
+    <img class="card-img lazyload" data-src="assets/img/fig2.png" />
+</div>
 
 We show activities recorded (right) and their corresponding protocols (left). HOI annotations are visualized in the top row. The bottom row gives an example of how knowledge in protocols guides (i) the recognition of actions (in red) given matched actions (green) and (ii) tracking the transparent solution status (blue).
 
 ### Result visualization
 #### Multimodal action recognition (MultiAR)
-![](assets/img/multiar1.gif)
-![](assets/img/multiar2.gif)
 
+<div class="card bg-light border-light mb-3">
+    <img class="card-img lazyload" data-src="assets/img/multiar1.gif" />
+</div>
+<div class="card bg-light border-light mb-3">
+    <img class="card-img lazyload" data-src="assets/img/multiar2.gif" />
+</div>
 
 #### Transparent solution tracking (TransST)
-![](assets/img/transst.gif)
+<div class="card bg-light border-light mb-3">
+    <img class="card-img lazyload" data-src="assets/img/transst.gif" />
+</div>
 
 
-
+<hr>
 
 ## Download
 
 Our dataset is distributed under the [CC BY-NC-SA (Attribution-NonCommercial-ShareAlike)](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. You can download our dataset from [Link here](https://docs.google.com/forms/d/e/1FAIpQLSe6NpXCq3rsgArf91o81jMLhA0MWjKDibVKFWwiBXPddoMSNw/viewform?usp=sf_link).
 
+<hr>
 
 ## Citation
 
