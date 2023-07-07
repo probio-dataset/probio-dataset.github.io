@@ -17,7 +17,7 @@ We construct **ProBio** by selecting a set of 13 frequently conducted experiment
 In light of the significant disparities observed between human and model performance in action recognition, we devise diagnostic splits that stratify experimental instruction into three categories based on difficulties (*i.e.*, easy, medium, hard). We hope **ProBio** and associated benchmarks will foster new insights to mitigate the reproducibility crisis in BioLab and promote fine-grained multimodal video understanding in computer vision.
 
 
-## Protocol Format
+## Annotation Format
 
 
 ```python
