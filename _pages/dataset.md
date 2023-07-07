@@ -9,7 +9,12 @@ mathjax_autonumber: true
 # ProBio Dataset
 
 ## Overview
+We present **ProBio**, the first protocol-guided multimodal dataset in BioLab to tackle the above challenges. **ProBio** provides 
+- (i) a meticulously curated set of detailed and standardized protocols with corresponding video recordings for each experiment
+- (ii) a natural and systematic evaluation framework for fine-grained multimodal activity understanding.
+We construct **ProBio** by selecting a set of 13 frequently conducted experiments and augmenting existing protocols by incorporating three-level hierarchical annotations. This configuration yields 3,724 practical-experiment instructions and 37,537 Human-Object Interaction (HOI) annotations with an overall length of 180.6 hours. 
 
+In light of the significant disparities observed between human and model performance in action recognition, we devise diagnostic splits that stratify experimental instruction into three categories based on difficulties (*i.e.*, easy, medium, hard). We hope **ProBio** and associated benchmarks will foster new insights to mitigate the reproducibility crisis in BioLab and promote fine-grained multimodal video understanding in computer vision.
 
 
 ## Protocol Format
