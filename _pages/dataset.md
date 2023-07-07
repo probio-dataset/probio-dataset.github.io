@@ -17,8 +17,26 @@ mathjax_autonumber: true
 
 ```json
 {
-    "info": info,
-
+    "images":[{
+        "date": int, 
+        "camera_id": int,
+        "video_id": str,                                 # camera id_challenge id_task_id
+        "file_name": str,                                # 00000000.jpg
+        "image_id": int,                      
+        "frame_id": int,                                 # the frame number of the given video
+        }, 
+        …,                                               # all frames
+    ],
+    "objects":[{
+        "image_id": int, 
+        "object_category": list of int                   # index of object_list,
+        "object_polygon": [[[x1, y1], [x2, y2],…], …]， 
+        "object_id": list of int,                        # the corresponding id in 'object_polygon'
+        "solution_category": [[id, category], ...],      # liquid 'category' in the 'id'th object
+        },
+        …,                                               # all frames
+    ],
+    "protocols": str
 }
 ```
 
@@ -28,6 +46,8 @@ We define ambiguity between two actions with the bidirectional Levenshtein dista
 
 
 $$amb=\frac{1}{P(A)}*\sum \limits_{x\in P(A)}{\underset{y\in P(B)}{\max}(ratio(x, y))} + \frac{1}{P(B)}*\sum \limits_{y\in P(B)}{\underset{x\in P(A)}{\max}(ratio(y, x))} \label{a}$$
+
+
 
 
 {% include mathjax.html %}
