@@ -15,7 +15,7 @@ mathjax_autonumber: true
 ## Protocol Format
 
 
-```json
+```python
 {
     "images":[{
         "date": int, 
