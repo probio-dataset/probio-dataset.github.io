@@ -97,7 +97,7 @@ Our dataset is distributed under the [CC BY-NC-SA (Attribution-NonCommercial-Sha
 @inproceedings{cui2023probio,
     title={ProBio: A Protocol-guided Multimodal Dataset for Molecular Biology Lab},
     author={Jieming Cui, Ziren Gong, Baoxiong Jia, Siyuan Huang, Zilong Zheng, Jianzhu Ma, Yixin Zhu},
-    booktitle={NeurIPS 2023 Datasets and Benchmarks Track (Under Review)},
+    booktitle={Under Review},
     year={2023}
 }
 ```
