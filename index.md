@@ -14,7 +14,7 @@ subtitle: A Protocol-guided Multimodal Dataset for Molecular Biology Lab
   </a>
 </span>
 
-<center style="font-weight: bold">Submitted to NeurIPS 2023 Track on Datasets and Benchmarks</center>
+<center style="font-weight: bold">NeurIPS 2023 Track on Datasets and Benchmarks</center>
 
 <!-- <p align="center">
     <a href='https://github.com/jiemingcui/probio/', target="_blank">[Code]
@@ -97,7 +97,7 @@ Our dataset is distributed under the [CC BY-NC-SA (Attribution-NonCommercial-Sha
 @inproceedings{cui2023probio,
     title={ProBio: A Protocol-guided Multimodal Dataset for Molecular Biology Lab},
     author={Jieming Cui, Ziren Gong, Baoxiong Jia, Siyuan Huang, Zilong Zheng, Jianzhu Ma, Yixin Zhu},
-    booktitle={Under Review},
+    booktitle={NeurIPS},
     year={2023}
 }
 ```
