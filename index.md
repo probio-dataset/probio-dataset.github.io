@@ -4,7 +4,7 @@ title: ProBio
 subtitle: A Protocol-guided Multimodal Dataset for Molecular Biology Lab
 
 ---
-<span class="link-block" style="text-align: center;display:block;">
+<!-- <span class="link-block" style="text-align: display:block;">
   <a href="https://github.com/jiemingcui/probio/" target="_blank"
   class="external-link button is-normal is-rounded is-dark">
   <span class="icon">
@@ -14,7 +14,7 @@ subtitle: A Protocol-guided Multimodal Dataset for Molecular Biology Lab
   </a>
 </span>
 
-<span class="link-block" style="text-align: center;display:block;">
+<span class="link-block" style="text-align: display:block;">
   <a href="https://arxiv.org/abs/2311.00556" target="_blank"
   class="external-link button is-normal is-rounded is-dark">
   <span class="icon">
@@ -24,7 +24,7 @@ subtitle: A Protocol-guided Multimodal Dataset for Molecular Biology Lab
   </a>
 </span>
 
-<span class="link-block" style="text-align: center;display:block;">
+<span class="link-block" style="text-align: display:block;">
   <a href=" " target="_blank"
   class="external-link button is-normal is-rounded is-dark">
   <span class="icon">
@@ -32,7 +32,36 @@ subtitle: A Protocol-guided Multimodal Dataset for Molecular Biology Lab
   </span>
   <span>Dataset</span>
   </a>
-</span>
+</span> -->
+
+<div style="display: flex; justify-content: center; align-items: center;">
+  <span class="link-block" style="text-align: center; display: block; margin: 0 10px;">
+    <a href="https://github.com/jiemingcui/probio/" target="_blank" class="external-link button is-normal is-rounded is-dark">
+      <span class="icon">
+        <i class="fab fa-github"></i>
+      </span>
+      <span>Code</span>
+    </a>
+  </span>
+  <span class="link-block" style="text-align: center; display: block; margin: 0 10px;">
+    <a href="https://arxiv.org/abs/2311.00556" target="_blank" class="external-link button is-normal is-rounded is-dark">
+      <span class="icon">
+        <i class="far fa-file-alt"></i>
+      </span>
+      <span>Paper</span>
+    </a>
+  </span>
+  <span class="link-block" style="text-align: center; display: block; margin: 0 10px;">
+    <a href="" target="_blank" class="external-link button is-normal is-rounded is-dark">
+      <span class="icon">
+        <i class=""></i>
+      </span>
+      <span>Dataset</span>
+    </a>
+  </span>
+</div>
+
+
 
 
 <center style="font-weight: bold">NeurIPS 2023 Track on Datasets and Benchmarks</center>
