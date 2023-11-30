@@ -14,6 +14,27 @@ subtitle: A Protocol-guided Multimodal Dataset for Molecular Biology Lab
   </a>
 </span>
 
+<span class="link-block" style="text-align: center;display:block;">
+  <a href="https://arxiv.org/abs/2311.00556" target="_blank"
+  class="external-link button is-normal is-rounded is-dark">
+  <span class="icon">
+    <i class="far fa-file-alt"></i>
+  </span>
+  <span>Paper</span>
+  </a>
+</span>
+
+<span class="link-block" style="text-align: center;display:block;">
+  <a href=" " target="_blank"
+  class="external-link button is-normal is-rounded is-dark">
+  <span class="icon">
+    <i class="fas fa-database"></i>
+  </span>
+  <span>Dataset</span>
+  </a>
+</span>
+
+
 <center style="font-weight: bold">NeurIPS 2023 Track on Datasets and Benchmarks</center>
 
 <!-- <p align="center">
