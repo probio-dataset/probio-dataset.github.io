@@ -26,23 +26,28 @@ In light of the significant disparities observed between human and model perform
     "images":[{
         "date": int, 
         "camera_id": int,
-        "video_id": str,                                 # camera id_challenge id_task_id
-        "file_name": str,                                # 00000000.jpg
+        "video_id": str,                                    # camera id_challenge id_task_id
         "image_id": int,                      
-        "frame_id": int,                                 # the frame number of the given video
+        "frame_id": int,                                    # the frame number of the given video
         }, 
-        …,                                               # all frames
-    ],
+        …,                                                  # all frames
+    ], 
     "objects":[{
         "image_id": int, 
-        "object_category": list of int                   # index of object_list,
-        "object_polygon": [[[x1, y1], [x2, y2],…], …]， 
-        "object_id": list of int,                        # the corresponding id in 'object_polygon'
-        "solution_category": [[id, category], ...],      # liquid 'category' in the 'id'th object
+        "human_bbox": [[x1,y1,x2,y2],…],                    # top left and bottom right points
+        "object_bbox": [[x1,y1,x2,y2],…],
+        "object_category": list of object                        # name of object_list
         },
-        …,                                               # all frames
+        …,                                                  # all frames
     ],
-    "protocols": str
+    "hoi":[{
+        "image_id": int,
+        "id": int,                                          # id in action list
+        "hoi_category": str,                                # id in hoi_list,
+        "connection": list,                                 # pair of human bbox index & object bbox index,
+        }, 
+        …,                                                  # all frames
+    ], 
 }
 ```
 
