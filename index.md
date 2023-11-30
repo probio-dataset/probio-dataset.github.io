@@ -5,8 +5,6 @@ subtitle: A Protocol-guided Multimodal Dataset for Molecular Biology Lab
 
 ---
 <center style="font-weight: bold">NeurIPS 2023 Track on Datasets and Benchmarks</center>
-<br>
-
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <span class="link-block" style="text-align: center; display: block; margin: 0 10px;">
