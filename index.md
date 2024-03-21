@@ -44,12 +44,11 @@ subtitle: A Protocol-guided Multimodal Dataset for Molecular Biology Lab
   </div>
 </div>
 
-
 </header>
-<div class="is-size-4 publication-authors">
-    <!-- <p><span class="author-block"><strong>NeurIPS 2023 D&B</strong></span></p> -->
+
+<!-- <div class="is-size-4 publication-authors">
+    <p><span class="author-block"><strong>NeurIPS 2023 D&B</strong></span></p>
   <div class="is-size-5 publication-authors">
-    
   </div>
   <div class="is-size-5 publication-authors">
     <span class="author-block"><sup>1</sup>Institute for Artificial Intelligence, Peking University,</span>
@@ -58,7 +57,7 @@ subtitle: A Protocol-guided Multimodal Dataset for Molecular Biology Lab
     <span class="author-block"><sup>4</sup>Department of Electronic Engineering, Tsinghua University</span>
     <span class="author-block"><sup>5</sup>PKU-WUHAN Institute for Artificial Intelligence</span>
   </div>
-</div>
+</div> -->
 
 
 <div style="display: flex; justify-content: center; align-items: center;">
