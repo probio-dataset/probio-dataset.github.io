@@ -6,6 +6,39 @@ subtitle: A Protocol-guided Multimodal Dataset for Molecular Biology Lab
 ---
 <center style="font-weight: bold">NeurIPS 2023 Track on Datasets and Benchmarks</center>
 
+<div class="is-size-4 publication-authors">
+    <!-- <p><span class="author-block"><strong>NeurIPS 2023 D&B</strong></span></p> -->
+  <div class="is-size-5 publication-authors">
+    <span class="author-block">
+      <a href="https://jiemingcui.github.io/">Jieming Cui</a><sup>1,2,*</sup>,</span>
+    <span class="author-block">
+      <a>Ziren Gong</a><sup>3,*</sup>,</span>
+    <span class="author-block">
+      <a href="https://buzz-beater.github.io/">Baoxiong Jia</a><sup>2,*</sup>,
+    </span>
+    <span class="author-block">
+      <a href="https://siyuanhuang.com/">Siyuan Huang</a><sup>2</sup>,
+    </span>
+    <span class="author-block">
+      <a href="https://zilongzheng.github.io/">Zilong Zheng</a><sup>2</sup>,
+    </span>
+    <span class="author-block">
+      <a href="https://majianzhu.com/">Jianzhu Ma</a><sup>3,4</sup>,
+    </span>
+    <span class="author-block">
+      <a href="https://yzhu.io/">Yixin Zhu</a><sup>1,2,5</sup>,
+    </span> 
+  </div>
+  <div class="is-size-5 publication-authors">
+    <span class="author-block"><sup>1</sup>Institute for Artificial Intelligence, Peking University,</span>
+    <span class="author-block"><sup>2</sup>National Key Laboratory of General Artificial Intelligence, BIGAI,</span>
+    <span class="author-block"><sup>3</sup>Institute for AI Industry Research, Tsinghua University</span>
+    <span class="author-block"><sup>4</sup>Department of Electronic Engineering, Tsinghua University</span>
+    <span class="author-block"><sup>5</sup>PKU-WUHAN Institute for Artificial Intelligence</span>
+  </div>
+</div>
+
+
 <div style="display: flex; justify-content: center; align-items: center;">
   <span class="link-block" style="text-align: center; display: block; margin: 0 10px;">
     <a href="https://github.com/jiemingcui/probio/" target="_blank" class="external-link button is-normal is-rounded is-dark">
@@ -59,7 +92,7 @@ The challenge of replicating research results has posed a significant impediment
 
 <iframe src="https://player.vimeo.com/video/898064557?h=7e7fd00948&color=94070A&byline=0&portrait=0" width="920" height="580" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <!-- <p><a href="https://vimeo.com/898064557">[NeurIPS 2023] ProBio: A Protocol-guided Multimodal Dataset for Molecular Biology Lab</a> from <a href="https://vimeo.com/yzhu">Yixin Zhu</a> on <a href="https://vimeo.com">Vimeo</a>.</p> -->
-
+</div>
 
 <hr>
 
