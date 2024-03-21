@@ -12,25 +12,25 @@ subtitle: A Protocol-guided Multimodal Dataset for Molecular Biology Lab
       <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
         <div class="post-heading">
           <span class="post-heading">
-            <a href="https://jiemingcui.github.io/">Jieming Cui</a><sup>1,2,*</sup>,
+            <a href="https://jiemingcui.github.io/" style="color : #696969;">Jieming Cui</a><sup>1,2,*</sup>,
           </span>
           <span class="author-block">
-            <a>Ziren Gong</a><sup>3,*</sup>,
+            <a style="color : #696969;">Ziren Gong</a><sup>3,*</sup>,
           </span>
           <span class="author-block">
-            <a href="https://buzz-beater.github.io/">Baoxiong Jia</a><sup>2,*</sup>,
+            <a href="https://buzz-beater.github.io/" style="color : #696969;">Baoxiong Jia</a><sup>2,*</sup>,
           </span>
           <span class="author-block">
-            <a href="https://siyuanhuang.com/">Siyuan Huang</a><sup>2</sup>,
+            <a href="https://siyuanhuang.com/" style="color : #696969;">Siyuan Huang</a><sup>2</sup>,
           </span>
           <span class="author-block">
-            <a href="https://zilongzheng.github.io/">Zilong Zheng</a><sup>2</sup>,
+            <a href="https://zilongzheng.github.io/" style="color : #696969;">Zilong Zheng</a><sup>2</sup>,
           </span>
           <span class="author-block">
-            <a href="https://majianzhu.com/">Jianzhu Ma</a><sup>3,4</sup>,
+            <a href="https://majianzhu.com/" style="color : #696969;">Jianzhu Ma</a><sup>3,4</sup>,
           </span>
           <span class="author-block">
-            <a href="https://yzhu.io/">Yixin Zhu</a><sup>1,2,5</sup>
+            <a href="https://yzhu.io/" style="color : #696969;">Yixin Zhu</a><sup>1,2,5</sup>
           </span> 
           <br />
           <span class="post-meta"><sup>1</sup>Institute for Artificial Intelligence, Peking University,</span>
