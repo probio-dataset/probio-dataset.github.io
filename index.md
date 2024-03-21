@@ -5,10 +5,9 @@ subtitle: A Protocol-guided Multimodal Dataset for Molecular Biology Lab
 
 ---
 <center style="font-weight: bold">NeurIPS 2023 Track on Datasets and Benchmarks</center>
-<!-- <header class="header-section "> -->
-<div class="intro-header no-img">
+<!-- <div class="intro-header no-img">
   <div class="container-md">
-    <div class="row">
+    <div class="row"> -->
       <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
         <div class="post-heading">
           <span class="post-heading">
@@ -40,9 +39,9 @@ subtitle: A Protocol-guided Multimodal Dataset for Molecular Biology Lab
           <span class="post-meta"><sup>5</sup>PKU-WUHAN Institute for Artificial Intelligence</span>
         </div>
       </div>
-    </div>
+    <!-- </div>
   </div>
-</div>
+</div> -->
 
 <!-- </header> -->
 
